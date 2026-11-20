@@ -541,3 +541,4 @@ export const translations = {
     confirmDeleteAccountPrompt: 'This account and all its journal entries will be deleted permanently. This cannot be undone.'
   }
 };
+
